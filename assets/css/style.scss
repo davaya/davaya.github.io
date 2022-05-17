@@ -3,8 +3,12 @@
 
 @import "{{ site.theme }}";
 
+a:hover, a:active {
+    font-weight: 600;
+}
+
 a {
-    color: unset;
+    color: #0000ff;
 }
 
 section {
