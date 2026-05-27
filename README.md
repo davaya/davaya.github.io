@@ -1,2 +1,2 @@
-# davaya.github.io
-jadn-im.cc server
+# jadn-im.cc
+
