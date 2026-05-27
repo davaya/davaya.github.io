@@ -1,4 +1,4 @@
-# JADN
+# JSON Abstract Data Notation (JADN)
 An Information Modeling Language  
 1 June 2026
 
