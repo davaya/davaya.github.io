@@ -1,4 +1,4 @@
-# JADN Information Model
+An Information Modeling Language 
 1 June 2026
 ## Introduction
 This document describes the [JADN](http://jadn-im.cc) namespace.
