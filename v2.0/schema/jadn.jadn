@@ -1,0 +1,8 @@
+{
+  "meta": {
+    "package": "foo"
+  },
+  "types": [
+    ["Bar", "String"]
+  ]
+}
