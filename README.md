@@ -6,12 +6,12 @@ An Information Modeling Language
 This document describes the JADN (http://jadn-im.cc) namespace.
 
 ### Schemas
-* JADN v2.0 Metaschema package (http://jadn-im.cc/v2.0/schema/jadn)
+* JADN v2.0 Metaschema package (http://jadn-im.cc/schema/v2.0/jadn)
   * Metaschema Documents:
-[JADN](http://jadn-im.cc/v2.0/schema/jadn.jadn),
-[XASD](http://jadn-im.cc/v2.0/schema/jadn.xasd),
-[JIDL](http://jadn-im.cc/v2.0/schema/jadn.jidl),
-[MD](http://jadn-im.cc/v2.0/schema/jadn.md)
+[JADN](http://jadn-im.cc/schema/v2.0/jadn.jadn),
+[XASD](http://jadn-im.cc/schema/v2.0/jadn.xasd),
+[JIDL](http://jadn-im.cc/schema/v2.0/jadn.jidl),
+[MD](http://jadn-im.cc/schema/v2.0/jadn.md)
 
 ### Encoding Rules
 
